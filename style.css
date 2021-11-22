@@ -1,0 +1,8 @@
+.a::before,
+.a::after {
+  content: "😂";
+  background-color: #8addf1;
+}
+.b {
+  text-decoration: none;
+}
